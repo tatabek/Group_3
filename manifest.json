@@ -1849,11 +1849,14 @@
     }
   },
   "files": {
+    ".RData": {
+      "checksum": "a6f7f8138ba4a96cbd8f3af18db7d4a2"
+    },
     "app.R": {
       "checksum": "519e51d72f45881d6600193195f9734d"
     },
     "R/forecasting.R": {
-      "checksum": "d72fb4c62abb12d8a23c3f913c7fd04e"
+      "checksum": "625c23edff08a477b1585d4c6cbf24f2"
     },
     "R/learning_curve.R": {
       "checksum": "9b20a6e9c563a628f70a59d1d89a1f05"
